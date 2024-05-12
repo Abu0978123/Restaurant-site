@@ -8,7 +8,7 @@ const Navbar = () => {
             <span className="text-color-white mr-2">
              Abubakar  
             </span>
-             site
+             site 
         </a>
       </div>
       <div>
